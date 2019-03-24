@@ -1,0 +1,84 @@
+.service-title {
+  line-height: 46px !important;
+
+}
+
+.form-control {
+  line-height: 20px;
+}
+
+label {
+  font-size: 14px;
+}
+
+.footer--widget-recent img,
+.widget-recent-posts img {
+  width: 70px;
+  height: 70px;
+}
+
+.entry-prev-next .entry-prev img,
+.entry-prev-next .entry-next img {
+  width: 70px;
+  height: 70px;
+}
+
+.tagcloud.widget--content {
+   margin-bottom: 50px;
+}
+
+
+.page-numbers {
+  background-color: transparent;
+  color: #333333;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400; ;
+  border: 1px solid #dadada;
+  text-transform: uppercase;
+  padding: 6px 12px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  border-radius: 0;
+  margin-right: 10px;
+  transition: background .2s ease-in-out;
+}
+
+.page-numbers:hover {
+  background: #333;
+  color: #fff;
+
+}
+
+.page-numbers.current {
+  background: #333;
+  color: #fff;
+  width: 35px;
+  height: 35px;
+}
+
+.next.page-numbers, .prev.page-numbers {
+  border: none;
+  color: #dadada;
+}
+
+.breadcrumbs span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    background: transparent;
+    color: #ffffff;
+    margin: 0 5px;
+}
+
+.breadcrumbs a.current-item span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.video-button-1 .video--content {
+    width: 440px;
+    height: 440px;
+}

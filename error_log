@@ -1,0 +1,8 @@
+[02-Dec-2018 01:28:07 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/404.php on line 10
+[02-Dec-2018 03:37:11 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/404.php on line 10
+[05-Dec-2018 01:25:40 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/404.php on line 10
+[05-Dec-2018 01:25:43 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/archive.php on line 11
+[05-Dec-2018 22:47:37 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/404.php on line 10
+[05-Dec-2018 22:47:38 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/archive.php on line 11
+[06-Dec-2018 11:48:38 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/404.php on line 10
+[06-Dec-2018 11:48:39 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/thebjghv/public_html/wp-content/themes/Thebarberway/archive.php on line 11
